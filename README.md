@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Conrad</h1>
+<h1 align="center">Hi! My name is Conrad</h1>
 <h3 align="center">A DevOps Engineer and Quality Management Specialist</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ccjacobs14" alt="ccjacobs14" /></a> </p>
 
-- 🔭 I’m currently working on **mastering python and java**
+- 🔭 I’m working on **mastering python and java**
 
 - 🌱 I’m currently learning **Azure DevOps and GCP**
 
