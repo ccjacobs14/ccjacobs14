@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/ccjacobs14**
 
-- ⚡ Fun fact **I have a problem of trying to solve every problem.**
+- ⚡ Fun fact **I have a problem of trying to solve most problem.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
